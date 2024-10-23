@@ -1,0 +1,11 @@
+.login-page {
+    height: 50px;
+    width: 300px;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: "solid gray";
+    border-radius: "5px";
+}
