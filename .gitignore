@@ -1,7 +1,6 @@
 .DS_STORE
 node_modules
 dev.env
-.env
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
